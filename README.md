@@ -6,6 +6,8 @@ Ansible Java Role
 Manages installation of Java JREs and JDKs. It supports both OpenJDK and Oracle
 JRE and JDK 6, 7 and 8. All of them are installed using the package manager.
 
+Forked from smola because we need to depend on released versions.
+
 Requirements
 ------------
 
